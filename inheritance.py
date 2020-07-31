@@ -3,11 +3,11 @@
 
 
 # <--- __init__() Method For Sub Class --->
-# DESCRIPTION: This will initialize any attributes that were defined in the parent __init__() method and make them available to the child class.
+# DESCRIPTION: This will initialize any attributes that were defined in the parent __init__() method and make them available to the sub class.
 
 
 # <--- NB. --->
-# (1) Parents classes must precede child classes in the file.
+# (1) Super classes must precede sub classes in the file.
 
 
 # <--- CODE --->
